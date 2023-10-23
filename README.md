@@ -11,9 +11,14 @@
       <img src="https://img.shields.io/badge/TenChat-red?logo=TenChat&logoColor=white&style=for-the-badge" alt="TenChat"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=flydecisive&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Всем привет, меня зовут Максим
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-### Всем привет, меня зовут Максим 👋
+
 
 
 
