@@ -3,10 +3,10 @@
   <div id="badges">
     <a href="https://vk.com/flydecisive">
       <img src="https://img.shields.io/badge/Вконтакте-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Вконтакте"/>
-    </a>
+    </a>&nbsp;
     <a href="https://t.me/flydecisive_original">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-    </a>
+    </a>&nbsp;
     <a href="https://tenchat.ru/2413295?utm_source=643efe6f-c053-4a26-a7c1-6e057e05cac2">
       <img src="https://img.shields.io/badge/TenChat-red?logo=TenChat&logoColor=white&style=for-the-badge" alt="TenChat"/>
     </a>
