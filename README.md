@@ -13,10 +13,29 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=flydecisive&style=flat-square&color=blue" alt=""/>
   <h1>
-    Всем привет, меня зовут Максим
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Всем привет, меня зовут Максим 👋
   </h1>
 </div>
+
+### :man_technologist: Обо мне :
+Я Web-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+- :telescope: Я учусь на Web-разработчика на курсах.
+
+- :seedling: Читаю технические статьи и литературу.
+
+- :zap: В свободное время делаю домашние проекты и занимаюсь спортом.
+
+- :mailbox:Написать мне: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/flydecisive_original)
+
+---
+
+### :hammer_and_wrench: Языки и технологии :
+
+<div>
+  <img width="40" height="40"/>&nbsp;
+</div>
+
 
 
 
