@@ -26,11 +26,11 @@
 
 - :zap: В свободное время делаю домашние проекты и занимаюсь спортом.
 
-- :mailbox: Написать мне: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/flydecisive_original)
+- 📬 Написать мне: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/flydecisive_original)
 
 ---
 
-### :hammer_and_wrench: Языки и технологии :
+### 🛠️ Языки и технологии :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@
 
 ---
 
-### :fire: Моя статистика :
+### 🔥 Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flydecisive&theme=vision-friendly-dark)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flydecisive&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br />
 ![Codewars](https://github.r2v.ch/codewars?user=fly_decisive&hide_clan=true&top_languages=true&theme=light)
